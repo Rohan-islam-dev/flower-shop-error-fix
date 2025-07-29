@@ -462,9 +462,10 @@ footer {
   }
   .badge {
     position: absolute;
-    width: 30%;
-    bottom: 86%;
-    left: 78%;
+    width: 25%;
+    bottom: 82%;
+    left: 79%;
+    
   }
  .plant-banner-right ul {
   padding: 10px;
