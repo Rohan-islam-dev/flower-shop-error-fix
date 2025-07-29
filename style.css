@@ -351,8 +351,7 @@ footer {
 
 /* small device responsive */
 @media screen and (max-width: 576px) {
-  .hide,
-  .badge {
+  .hide{
     display: none;
   }
 
@@ -463,9 +462,9 @@ footer {
   }
   .badge {
     position: absolute;
-    width: 50%;
-    bottom: 76%;
-    left: 50%;
+    width: 30%;
+    bottom: 86%;
+    left: 78%;
   }
  .plant-banner-right ul {
   padding: 10px;
