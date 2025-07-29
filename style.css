@@ -199,7 +199,7 @@ img {
   font-size: 1.3rem;
   font-weight: 400;
   max-width: 888px;
-  margin-left: 10px;
+  
   
 }
 
@@ -380,6 +380,7 @@ footer {
     flex-direction: column;
     width: 361px;
     margin-top: 41px;
+    padding: 20px;
   }
   .plant-banner-title br {
     display: none;
@@ -401,6 +402,10 @@ footer {
   .latest-deals{
     margin-top: 50px;
   }
+  .latest-deal-top{
+    padding: 20px;
+    
+  }
   .deal-title {
     font-size: 1.5rem;
     font-weight: bold;
@@ -408,8 +413,9 @@ footer {
   .deal-description {
     font-size: 14px;
     font-weight: 700;
-    width: 336px;
-    margin-left: 40px;
+    width: 310px;
+    /* margin-left: 40px; */
+
   }
   .deal-parent {
     flex-direction: column;
